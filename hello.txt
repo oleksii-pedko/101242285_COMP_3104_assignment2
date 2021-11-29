@@ -1,0 +1,8 @@
+Git repository created from AWS EC2 instance
+
+101242285
+
+Oleksii Pedko
+
+
+https://github.com/oleksii-pedko/101242285_COMP_3104_assignment2
